@@ -5,7 +5,7 @@ Welcome, and thank you for contributing to our project! To ensure smooth collabo
 ---
 
 ## Tools to Use
-- Use **PyCharm Community Edition** (PyCharm for Professional is also alright) or **JetBrains Fleet**, or Visual Studio Code (VSCode) as your Integrated Development Environment (IDE) for consistency across contributions.
+- Use **PyCharm Community Edition** (PyCharm for Professional is also alright) or **JetBrains Fleet**, or **Visual Studio Code** (VSCode) as your Integrated Development Environment (IDE) for consistency across contributions.
 ---
 
 ## Coding Standards
