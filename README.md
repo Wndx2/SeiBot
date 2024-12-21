@@ -23,8 +23,8 @@ Supported by many nerds.
 Thank you to all the supporters who have supported my journey.
 
 ### Top Supporters:
-EvilSaint
-DY
-vio
-huile
+EvilSaint\
+DY\
+vio\
+huile\
 Bacon
