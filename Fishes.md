@@ -87,7 +87,7 @@
 
 ---
 
-### Shimmering Bay - 빛나는 만
+### Shimmering Bay - 빛나는 땅
 
 1. **Silverstripe Snapper**  
    - **Shape**: Compact and medium-sized.  
