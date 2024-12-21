@@ -35,6 +35,25 @@ Welcome, and thank you for contributing to our project! To ensure smooth collabo
    - If your code does not run at all, please check if you have Pycord installed. If you do have it downloaded on your device, please delete the Pycord library, and use discord.py's latest version.
 ---
 
+## Art Guidelines
+1. **Sizing**
+   - If you are submitting any art, please only submit 16x16 pixel arts; resolution must be over 400x400, and below 700x700.
+
+2. **Tools**
+   - There are many options out there, but I tend to use Piskel a lot.
+
+3. **Glows**
+   - If you are ever wanting to add glowing effects, use Lunacy by Icons8.
+   - Here are the settings below:\
+     X: 0\
+     Y: 0\
+     Blur: 50\
+     Spread: 0\
+     Color: *Depends*\
+     Opacity: 100%
+
+---
+  
 ## Pull Request Guidelines
 - Submit meaningful PRs only. Do not just remove a single space, and think that you've made a change.
 - Avoid creating PRs for trivial or unnecessary changes.
