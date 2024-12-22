@@ -1,7 +1,7 @@
 
 ### **1. Wooden Twig Rod**
 - **Shape**: A simple, straight stick.
-- **Appearance**: Very basic, with no curve. Twine wrapped around the middle & stretchec across with a small hook at the end of the rod attatched to a string
+- **Appearance**: Very basic, with no curve. Twine wrapped around the middle & stretchec across with a small hook at the end of the rod attatched to a string.
 - **Color**: Light brown for the stick, tan for the twine, and a dark gray hook.  
 
 ### **2. Reedcrafted Pole**
