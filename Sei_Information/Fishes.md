@@ -1,5 +1,5 @@
 
-### Tranquil Pond - 평화로운 연못
+### 1. Tranquil Pond - 평화로운 연못
 
 1. **Pond Skimmer**  
    - **Shape**: Small and flat-bodied.  
@@ -43,7 +43,7 @@
 
 ---
 
-### Mossy Creek - 이끼 낀 개울 
+### 2. Mossy Creek - 이끼 낀 개울 
 
 1. **Mossfin Trout**  
    - **Shape**: Slender and sleek.  
@@ -87,7 +87,7 @@
 
 ---
 
-### Shimmering Bay - 빛나는 땅
+### 3. Shimmering Bay - 빛나는 땅
 
 1. **Silverstripe Snapper**  
    - **Shape**: Compact and medium-sized.  
@@ -131,7 +131,7 @@
 
 ---
 
-### Verdant Grove - 푸른 숲
+### 4. Verdant Grove - 푸른 숲
 
 1. **Emerald Darter**  
    - **Shape**: Small and streamlined.  
@@ -175,7 +175,7 @@
 
 ---
 
-### Azure Lake - 푸른 호수
+### 5. Azure Lake - 푸른 호수
 
 1. **Bluefin Perch**  
    - **Shape**: Medium-sized and compact.  
@@ -219,7 +219,7 @@
 
 ---
 
-### Whispering Wetlands - 속삭이는 습지
+### 6. Whispering Wetlands - 속삭이는 습지
 
 1. **Bog Perch**  
    - **Shape**: Small and round.  
@@ -263,7 +263,7 @@
 
 ---
 
-### Glacial Falls - 빙하 폭포
+### 7. Glacial Falls - 빙하 폭포
 
 1. **Iceberg Trout**  
    - **Shape**: Slender and elongated.  
@@ -307,7 +307,7 @@
 
 ---
 
-### Silent Abyss - 고요한 심해
+### 8. Silent Abyss - 고요한 심해
 
 1. **Voidfish**  
    - **Shape**: Elongated and sleek.  
@@ -351,7 +351,7 @@
 
 ---
 
-### Luminous Cavern - 빛나는 동굴
+### 9. Luminous Cavern - 빛나는 동굴
 
 1. **Glowtail Guppy**  
    - **Shape**: Small and rounded.  
@@ -395,7 +395,7 @@
 
 ---
 
-### Ethereal Rift - 초자연의 균열
+### 10. Ethereal Rift - 초자연의 균열
 
 1. **Voidwalker Trout**  
    - **Shape**: Slender and elongated.  
