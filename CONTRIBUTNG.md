@@ -17,7 +17,6 @@ Welcome, and thank you for contributing to our project! To ensure smooth collabo
 
 3. **Command Structure**
    - Use the `@bot.tree.command` structure to implement Discord bot commands.
-   - You also MUST use
 
 4. **Python Version**
    - Use **Python 3.12** (3.12.3) exclusively. Do not use a lower or higher version to maintain compatibility.
