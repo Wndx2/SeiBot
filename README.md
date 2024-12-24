@@ -11,7 +11,7 @@ With Sei, users can catch fish, earn rewards, and level up their fishing skills 
 - Mini-games: Enjoy casual mini-games related to fishing for extra rewards.
 
 ### Contact:
-If you encounter a bug, want to suggest a feature, or just want to say hi, please DM me via Discord, or shoot me an email.
+If you encounter a bug, want to suggest a feature, or just want to say hi, feel free to DM me via Discord, or shoot me an email.
 - Discord: wndx2
 - Email: 22222w@duck.com
 
@@ -20,7 +20,7 @@ If you encounter a bug, want to suggest a feature, or just want to say hi, pleas
 Created with love by Wnd.
 Supported by many nerds.
 
-Thank you to all the supporters who have supported my journey.
+Thank you to all the supporters who have made this possible.
 
 ### Top Supporters:
 vio\
